@@ -1,4 +1,4 @@
-# MERN rentify house rental platform
+# MERN- rentify(house rental platform)
 
 ## Description
 
